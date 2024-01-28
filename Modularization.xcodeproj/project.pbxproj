@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		0032289CFAD1D0BC0D843D4D /* Pods_ModularizationTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C245E18CF90AEDB39CFA8C4B /* Pods_ModularizationTests.framework */; };
+		0410E6CE2B67039A0079BD74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1593E4F225CB15700A73B34 /* Assets.xcassets */; };
+		0410E6CF2B67039C0079BD74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1593E4F225CB15700A73B34 /* Assets.xcassets */; };
 		0B34557C3CD82C757ED4FD67 /* Pods_BigModule.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1EC86D359C587C35496F4E6 /* Pods_BigModule.framework */; };
 		A06E388A8103F1FE1429B760 /* Pods_BigModuleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DA1BCF102F7C9168F3DD749 /* Pods_BigModuleTests.framework */; };
 		B541CE6A9FEBDA281D9228D9 /* Pods_Modularization.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A54D9A68680A1549D7EB6CEB /* Pods_Modularization.framework */; };
@@ -535,6 +537,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0410E6CE2B67039A0079BD74 /* Assets.xcassets in Resources */,
 				D17874C4225CB93600C8FC57 /* BigModule.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -550,6 +553,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0410E6CF2B67039C0079BD74 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
